@@ -1,0 +1,9 @@
+{
+  "files_processed": 17,
+  "total_chunks": 826,
+  "total_chars": 760536,
+  "avg_chunk_size": 921.3450363196126,
+  "model": "llama-local:latest",
+  "min_chunk_chars": 300,
+  "max_chunk_chars": 1200
+}

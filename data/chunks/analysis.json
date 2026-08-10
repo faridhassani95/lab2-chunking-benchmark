@@ -1,0 +1,36 @@
+{
+  "analysis": [
+    {
+      "strategy": "character",
+      "mrr": 0.9,
+      "chunks": 961,
+      "efficiency_score": 0.937,
+      "estimated_cost": 1,
+      "total_score": 0.958
+    },
+    {
+      "strategy": "recursive",
+      "mrr": 0.885,
+      "chunks": 989,
+      "efficiency_score": 0.895,
+      "estimated_cost": 2,
+      "total_score": 0.934
+    },
+    {
+      "strategy": "semantic",
+      "mrr": 0.9016666666666666,
+      "chunks": 2990,
+      "efficiency_score": 0.302,
+      "estimated_cost": 4,
+      "total_score": 0.783
+    },
+    {
+      "strategy": "llm",
+      "mrr": 0.8966666666666666,
+      "chunks": 826,
+      "efficiency_score": 1.086,
+      "estimated_cost": 6,
+      "total_score": 0.996
+    }
+  ]
+}
