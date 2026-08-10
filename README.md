@@ -1,5 +1,13 @@
 # LLM Engineer Lab 2 — Chunking Benchmark
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FAISS](https://img.shields.io/badge/FAISS-1.15-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-teal)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-all--MiniLM--L6--v2-orange)
+![Ollama](https://img.shields.io/badge/Ollama-Llama%203.2-purple)
+![Docker](https://img.shields.io/badge/Docker-ready-blue)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 > **Scientific Question:** Which chunking strategy produces the highest retrieval quality for a RAG system on Java documentation?
 
 ---
@@ -25,14 +33,11 @@ Evaluated on **50 queries** across **5 categories** (direct, conceptual, multi-c
 
 ## 📈 Charts
 
-### Metrics Comparison
-![Metrics Comparison](reports/metrics_comparison.png)
-
-### Chunk Distribution
-![Chunk Distribution](reports/chunk_distribution.png)
-
-### MRR Comparison
-![MRR Comparison](reports/mrr_comparison.png)
+<p align="center">
+  <img src="reports/metrics_comparison.png" width="400" />
+  <img src="reports/chunk_distribution.png" width="400" />
+  <img src="reports/mrr_comparison.png" width="400" />
+</p>
 
 ---
 
