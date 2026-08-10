@@ -1,5 +1,13 @@
 # LLM Engineer Lab 2 — Chunking Benchmark
 
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FAISS](https://img.shields.io/badge/FAISS-1.15-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-teal)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-all--MiniLM--L6--v2-orange)
+![Ollama](https://img.shields.io/badge/Ollama-Llama%203.2-purple)
+![Docker](https://img.shields.io/badge/Docker-ready-blue)
+
 > **Scientific Question:** Which chunking strategy produces the highest retrieval quality for a RAG system on Java documentation?
 
 ---
